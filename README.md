@@ -1,4 +1,4 @@
-# HomeAutomationLightControl
+# Intelligent-Home-Assistant
 
 ## Steps to RUN
 1. Run Flask server on RaspberryPI <br />
